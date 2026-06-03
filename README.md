@@ -85,3 +85,16 @@ If issues arise, verify the integrity of the dataset and model files or refer to
 ```bash
 pip install -r requirements.txt
 ```
+### Citation
+Please cite the following paper if you think this project is useful for your work. Thanks.
+@article{BO202639,
+title = {SARU: A Shadow-Aware and Removal Unified Framework for remote sensing images with new benchmarks},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {239},
+pages = {39-53},
+year = {2026},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2026.05.022},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271626002637},
+author = {Zi-Yang Bo and Wei Lu and Hongruixuan Chen and Si-Bao Chen and Bin Luo},
+}
