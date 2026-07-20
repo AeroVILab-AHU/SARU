@@ -7,9 +7,9 @@ This project provides instructions for using the code and datasets for shadow de
 
 ## 1. Obtain Pretrained Model Parameters
 
-Download the pretrained model parameters from the following Baidu Netdisk link:
-- **Link**: [https://pan.baidu.com/s/1myX_38t52SI7mtcTI6rHCw?pwd=3vqt](https://pan.baidu.com/s/1myX_38t52SI7mtcTI6rHCw?pwd=3vqt)
-- **Extraction Code**: 3vqt
+Download the pretrained model parameters from the following link: 
+- GoogleDrive: (https://drive.google.com/drive/folders/1peWzhKqPGOWu_4LpjATvWQofjh4LGIhK?usp=drive_link)
+- BaiduNetdisk: (https://pan.baidu.com/s/1myX_38t52SI7mtcTI6rHCw?pwd=3vqt) (Access code: 3vqt)
 
 Download the following files:
 - `DecoupleNet_D2.pth`
@@ -22,9 +22,9 @@ Download the following files:
 
 ## 2. Obtain RSISD Dataset
 
-The proposed **RSISD Dataset** can be downloaded from the following Baidu Netdisk link:
-- **Link**: [https://pan.baidu.com/s/1myX_38t52SI7mtcTI6rHCw?pwd=3vqt](https://pan.baidu.com/s/1myX_38t52SI7mtcTI6rHCw?pwd=3vqt)
-- **Extraction Code**: 3vqt
+The proposed **RSISD Dataset** can be downloaded from the following link:
+- GoogleDrive: (https://drive.google.com/drive/folders/1peWzhKqPGOWu_4LpjATvWQofjh4LGIhK?usp=drive_link)
+- BaiduNetdisk: (https://pan.baidu.com/s/1myX_38t52SI7mtcTI6rHCw?pwd=3vqt) (Access code: 3vqt)
 
 **Steps**:
 1. Download the RSISD dataset.
